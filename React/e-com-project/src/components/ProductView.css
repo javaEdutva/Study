@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+  border: 1px solid #dedede;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+}

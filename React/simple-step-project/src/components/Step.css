@@ -1,0 +1,19 @@
+.step {
+  padding: 20px;
+  border: 1px solid rgb(239, 239, 239);
+  box-shadow: 1px 1px 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.step-count {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main-btn {
+  display: flex;
+  justify-content: space-evenly;
+}

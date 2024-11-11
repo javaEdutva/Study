@@ -1,0 +1,25 @@
+.text {
+  color: black;
+}
+
+.table {
+  display: flex;
+  gap: 10px;
+  margin-right: 10px;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+}
+
+.text {
+  padding: 10px 30px;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.text:last-child {
+  border: none;
+}

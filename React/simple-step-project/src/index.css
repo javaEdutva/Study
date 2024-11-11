@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn-step {
+  background-color: #4c6bf2;
+  padding: 16px;
+  border-radius: 50%;
+  color: #fff;
+  border: none;
+  font-size: 19px;
+}
+
+.btn {
+  background-color: #4c6bf2;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: #fff;
+  border: none;
+  font-size: 19px;
+}
+
+.btn:hover {
+  background-color: #f29625;
+}
